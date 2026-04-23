@@ -5,7 +5,9 @@ description: Decision protocol for selecting the right data visualisation tool f
 
 # Choose the Right Visualisation Tool
 
-Use this when the user wants a visualisation and hasn't named a library. The goal is to pick from the tool inventory (`skills/tool-inventory`) rather than defaulting to whatever first comes to mind.
+Use this when the user wants a visualisation and hasn't named a library. The goal is to start from the purpose-organised inventory (`skills/tool-inventory`) so the pick is grounded, rather than defaulting to whatever first comes to mind.
+
+The inventory is a head start, not a cage — if nothing listed fits, go outside it and say why.
 
 ## Decision axes
 
@@ -62,5 +64,5 @@ Ask (or infer) along these axes before picking:
 1. Read `skills/tool-inventory` for the canonical list and repo links.
 2. If the user's need maps cleanly to the table above, propose that tool and state why in one sentence.
 3. If two inventory tools fit, present both with a one-line tradeoff and ask.
-4. Only propose a non-inventory tool if nothing in the inventory fits — and say so explicitly.
+4. If nothing in the inventory genuinely fits, propose a non-inventory tool and say so explicitly with the reason.
 5. Once chosen, hand off to `skills/setup-environment` if the user needs the toolchain stood up, or proceed to implementation.
