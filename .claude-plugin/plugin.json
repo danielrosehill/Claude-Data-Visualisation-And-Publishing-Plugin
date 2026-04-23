@@ -1,0 +1,12 @@
+{
+  "name": "data-visualisation-and-publishing",
+  "version": "1.0.0",
+  "description": "Create static and interactive data visualisations for reports, repos, and data storytelling — prioritising a curated inventory of open-source tools.",
+  "author": {
+    "name": "Daniel Rosehill",
+    "url": "https://github.com/danielrosehill"
+  },
+  "repository": "https://github.com/danielrosehill/Data-Visualisation-And-Publishing-plugin",
+  "license": "MIT",
+  "keywords": ["data-visualisation", "data-storytelling", "charts", "reporting", "publishing"]
+}
