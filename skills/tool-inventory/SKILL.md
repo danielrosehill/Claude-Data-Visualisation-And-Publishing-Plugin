@@ -197,7 +197,7 @@ For when the data isn't ready to plot yet. Dataviz-adjacent — use before reach
 |---|---|---|
 | Data-Juicer | https://github.com/datajuicer/data-juicer | Multimodal data processing (oriented at LLM training corpora but useful for viz prep) |
 
-> For general tabular/JSON cleaning and enrichment before visualisation, defer to the separate `Claude-Data-Wrangler` plugin.
+> For general tabular/JSON cleaning and enrichment before visualisation, defer to the separate `data-wrangler` plugin.
 
 ## Discovery beyond the inventory
 
